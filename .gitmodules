@@ -1,3 +1,6 @@
 [submodule "theme/virgo"]
 	path = themes/virgo
 	url = https://github.com/loveminimal/hugo-theme-virgo
+[submodule "themes/paper"]
+	path = themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper.git
