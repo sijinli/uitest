@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://github.com/sijinli/uitest/'
 languageCode = 'en-us'
 title = 'This is my uitest pages'
 # theme = "virgo"
