@@ -1,4 +1,6 @@
-# Welcome to My Multi-Author Blog  
-Hola, devs! Welcome to my site.
+---
+title: "The real title"
+draft: false
+---
 
-Here are all the posts
+

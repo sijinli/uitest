@@ -2,5 +2,5 @@ baseURL = 'http://github.com/sijinli/uitest/'
 canonifyurls = true
 languageCode = 'en-us'
 title = 'This is my uitest pages'
-# theme = "virgo"
 theme = "theme7"
+hasCJKLanguage = true
