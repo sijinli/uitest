@@ -9,4 +9,4 @@ _site/
 .bundle/
 vendor/
 resources/
-../.DS_Store
+**/.DS_Store
